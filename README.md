@@ -21,3 +21,6 @@ collection_completeness 100.000000
       wwww_completeness 100.000000
    average_completeness 93.333333
 ```
+
+## Remediated MODS/XML review:
+
